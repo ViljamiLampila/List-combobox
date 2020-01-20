@@ -1,0 +1,9 @@
+C:\Users\viljami\source\repos\lista ja for each\lista ja for each\bin\Debug\lista ja for each.exe.config
+C:\Users\viljami\source\repos\lista ja for each\lista ja for each\bin\Debug\lista ja for each.exe
+C:\Users\viljami\source\repos\lista ja for each\lista ja for each\bin\Debug\lista ja for each.pdb
+C:\Users\viljami\source\repos\lista ja for each\lista ja for each\obj\Debug\lista ja for each.csprojAssemblyReference.cache
+C:\Users\viljami\source\repos\lista ja for each\lista ja for each\obj\Debug\lista_ja_for_each.Form1.resources
+C:\Users\viljami\source\repos\lista ja for each\lista ja for each\obj\Debug\lista_ja_for_each.Properties.Resources.resources
+C:\Users\viljami\source\repos\lista ja for each\lista ja for each\obj\Debug\lista ja for each.csproj.GenerateResource.cache
+C:\Users\viljami\source\repos\lista ja for each\lista ja for each\obj\Debug\lista ja for each.exe
+C:\Users\viljami\source\repos\lista ja for each\lista ja for each\obj\Debug\lista ja for each.pdb
